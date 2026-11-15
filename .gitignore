@@ -1,0 +1,14 @@
+# Node dependencies
+node_modules/
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
